@@ -1,0 +1,565 @@
+                       Universidad Nacional Mayor de San Marcos
+                     Facultad de Ingeniería de Sistemas e Informática
+                                   Unidad de Posgrado
+
+
+       Maestría en Ingeniería de Sistemas e Informática con mención en Ingeniería de
+                                         Software
+
+
+
+I.        PRESENTACIÓN
+        La Maestría en Ingeniería de Sistemas e Informática con mención en Ingeniería de
+Software en la modalidad presencial, se crea en el año 2002, con el propósito de cubrir la
+demanda de profesionales e investigadores competentes para enfrentar con éxito los retos que
+involucra la gestión, la investigación, el desarrollo y el dominio de las nuevas Tecnologías
+aplicadas a las organizaciones de acuerdo con los estándares internacionales de calidad
+reconocidos en el ámbito académico y profesional.
+
+        Los diversos cambios que sufre la sociedad nos plantean nuevos retos y exigencias en la
+Educación la cual debe estar en permanente transformación para responder a los retos y
+exigencias a nivel mundial, nacional y regional; convirtiéndose en organizaciones dinámicas,
+abiertas e interconectadas con su entorno, adaptables a los cambios de la humanidad. Para ello
+es esencial que las Universidades consideren que el proceso de enseñanza-aprendizaje no es
+solo presencial sino también semipresencial, y su aplicación contribuye a la construcción de un
+espacio educativo que minimiza las barreras al aprendizaje, participación y comunicación,
+además porque permite acceder, adaptar, apropiarse de herramientas que conllevan a innovar
+nuevos usos de la tecnología y a combinar las modalidades transformando los modos de
+interacción entre los docentes y los estudiantes. Las redes telemáticas hacen que la interacción
+se produzca de forma sincrónica (mediante la videoconferencia, chat, etc.) o bien asincrónica
+(mediante el correo electrónico, foro, etc.). estos cambios permiten transformar los modelos de
+educación de lo convencional y/o tradicionales a la acción telemática multimedial de nuestros
+tiempos. Debido a esta coyuntura y en cumplimiento de la Ley Universitaria se realizó el Taller
+curricular con el fin de actualizar el plan de estudios del Programa de Maestría en Ingeniería de
+Sistemas e Informática con mención en Ingeniería de Software, que regirá a partir del semestre
+2023-1.
+
+II.       VISIÓN DE LA FACULTAD Y/O DE LA UPG
+         Ser reconocidos como una facultad de excelencia en la formación profesional e
+investigación en el área de Computación e Informática comprometidos con la responsabilidad
+social y el desarrollo sostenible de la sociedad.
+
+
+III.      MISIÓN DE LA FACULTAD Y/O DE LA UPG
+        Generar y difundir conocimiento científico y tecnológico, formando profesionales e
+investigadores en el área de Computación e Informática, con valores y respetuosos de la
+diversidad cultural, promotores de la identidad nacional basada en una cultura de calidad y
+responsabilidad social para contribuir al desarrollo sostenible del país y la sociedad.
+                              Universidad Nacional Mayor de San Marcos
+                            Facultad de Ingeniería de Sistemas e Informática
+                                          Unidad de Posgrado
+
+      Maestría en Ingeniería de Sistemas e Informática con mención en Ingeniería de
+                                        Software
+
+
+
+IV.       LÍNEAS DE INVESTIGACIÓN
+
+                Objetivos de desarrollo (n=8)                      Líneas de Investigación (n=8)
+
+                                                  1   Ciberseguridad
+                                                  2   Computación Gráfica e Imágenes
+                                                  3   Gobierno y Gestión de TIC
+  ODS3: Salud y Bienestar
+                                                  4   Ingeniería de Software
+                                                  5   Procesamiento Digital de Señales
+                                                  6   Sistemas Inteligentes
+                                                  1   Ciberseguridad
+                                                  2   Computación Gráfica e Imágenes
+  ODS4: Educación de Calidad                      3   Gobierno y Gestión de TIC
+                                                  4   Ingeniería de Software
+                                                  5   Sistemas Inteligentes
+                                                  1   Computación Gráfica e Imágenes
+                                                  2   Gobierno y Gestión de TIC
+  ODS5: Igualdad de género
+                                                  3   Ingeniería de Software
+                                                  4   Sistemas Inteligentes
+  ODS7: Energía asequible y no contaminante       1   Computación Gráfica e Imágenes
+                                                  2   Sistemas Inteligentes
+  ODS8: Trabajo decente y crecimiento económico   1   Gobierno y Gestión de TIC
+                                                  2   Ingeniería de Software
+                                                  1   Ciberseguridad
+
+                                                  2   Computación Gráfica e Imágenes
+                                                  3   Gobierno y Gestión de TIC
+  ODS9: Industria, Innovación e Infraestructura   4   Ingeniería de Software
+                                                  5   Internet de las Cosas
+                                                  6   Redes TIC
+                                                  7   Sistemas Inteligentes
+                                                  1   Ciberseguridad
+                                                  2   Computación Gráfica e Imágenes
+  ODS16: Paz, Justicia e Instituciones sólidas    3   Gobierno y Gestión de TIC
+                                                  4   Ingeniería de Software
+                                                  5   Sistemas Inteligentes
+                                                  1   Ciberseguridad
+                                                  2   Gobierno y Gestión de TIC
+                                                  3   Ingeniería de Software
+  ODS17: Alianzas para lograr los objetivos
+                                                  4   Procesamiento Digital de Señales
+                                                  5   Redes TIC
+                                                  6   Sistemas Inteligentes
+
+
+
+
+                                                                                                   P
+                       Universidad Nacional Mayor de San Marcos
+                     Facultad de Ingeniería de Sistemas e Informática
+                                   Unidad de Posgrado
+
+     Maestría en Ingeniería de Sistemas e Informática con mención en Ingeniería de
+                                       Software
+
+V.      PERFILES:
+     1. Perfil del ingresante al Programa
+        −   Profesionales con grado de bachiller de las áreas de Ciencias, Ingenierías, Tecnologías
+            de la Información y afines;
+        −   Profesionales de otras especialidades como Administración, Economía, Matemáticas,
+            Física, etc., deseable no menos de tres años de ejercicio profesional y experiencia
+            significativa de trabajo en las áreas de Gestión Empresarial y Tecnologías de
+            Información.
+        −   Proactivo, autodidacta
+        −   Capacidad de comunicación
+        −   Capacidad de trabajo en equipo
+        −   Compromiso con principios y valores (ética y moral)
+        −   Capacidad de abstracción para la solución de problemas complejos.
+        −   Valoración de la diversidad cultural, con una perspectiva intercultural.
+        −   Capacidad de aprendizaje.
+
+     2. Perfil del egresado del Programa
+        −   Desarrolla investigaciones científico tecnológicos en una de las líneas de investigación
+            del programa, orientadas al cumplimiento de los objetivos de desarrollo sostenible
+            (ODS), a través de actividades innovadoras y creativas.
+        −   Planifica, dirige y controla proyectos de emprendimiento que permitan la creación de
+            empresas con base tecnológica adoptando un alto sentido ético moral.
+        −   Diseña y desarrolla software de calidad.
+        −   Conoce y trabaja con las herramientas, plataformas de desarrollo de software y
+            entornos integrados de desarrollo (IDE) con las que se trabaja actualmente en la
+            industria.
+        −   Aplica el pensamiento crítico y creativo en su desempeño profesional permitiendo
+            solucionar los problemas complejos que se presentan en las organizaciones y la
+            sociedad adoptando la mejor alternativa.
+        −   Identifica y selecciona innovaciones tecnológicas, manteniendo la competitividad de los
+            recursos informáticos en su organización.
+        −   Aplica los principales estándares, técnicas, métricas y modelos durante todo el ciclo de
+            vida del desarrollo del software.
+        −   Desarrolla, gestiona, distribuye y evalúa aplicaciones web protegiendo la integridad y
+            confidencialidad de la información.
+        −   Desarrolla aplicaciones en la nube y despliega o migra aplicaciones o servicios en la nube
+        −   Establece la calidad de los productos de software a partir de la aplicación de las técnicas
+            para elaborar pruebas, las buenas prácticas de la construcción de productos de software
+            y las prácticas para elaborar software seguro.
+
+
+
+
+                                                                                                     P
+                         Universidad Nacional Mayor de San Marcos
+                       Facultad de Ingeniería de Sistemas e Informática
+                                     Unidad de Posgrado
+
+      Maestría en Ingeniería de Sistemas e Informática con mención en Ingeniería de
+                                        Software
+
+VI.        DENOMINACIÓN DEL GRADO
+       •   Magíster en Ingeniería de Sistemas e Informática con mención en Ingeniería de Software
+
+
+VII.       PLAN DE ESTUDIOS
+                                        PLAN DE ESTUDIOS 2023
+ N.º                       Asignatura                       Créd.         Pre requisito
+                                             Primer Ciclo
+  1        MACHINE LEARNING Y BIG DATA                       4
+  2        ARQUITECTURA DE SOFTWARE                          4
+  3        GESTIÓN DE PROYECTOS                              4
+
+  4        METODOLOGÍA DE LA INVESTIGACIÓN                   6
+
+                                            Segundo Ciclo
+           INNOVACIÓN DISRUPTIVA Y
+  5                                                          4
+           TRANSFORMACIÓN DIGITAL
+  6        DESARROLLO DE SOFTWARE                            3
+           CIBERSEGURIDAD EN LA INGENIERÍA DE
+  7                                                          3
+           SOFTWARE
+                                                                     METODOLOGÍA DE LA
+  8        DIRECCIÓN DE TESIS I                              8
+                                                                       INVESTIGACIÓN
+                                             Tercer Ciclo
+
+  9        GESTIÓN DE LA CALIDAD DEL SOFTWARE                4
+
+
+           ENTORNOS METODOLÓGICOS DE
+  10                                                         6
+           DESARROLLO DE SOFTWARE
+
+  11       DIRECCIÓN DE TESIS II                             8        DIRECCIÓN DE TESIS I
+                                             Cuarto Ciclo
+
+  12       HABILIDADES DIRECTIVAS EN GESTIÓN                 4
+
+  13       REDACCIÓN DE DOCUMENTOS CIENTÍFICOS               6        DIRECCIÓN DE TESIS I
+
+  14       DIRECCIÓN DE TESIS III                            8       DIRECCIÓN DE TESIS II
+
+
+
+
+                                                                                               P
+                         Universidad Nacional Mayor de San Marcos
+                       Facultad de Ingeniería de Sistemas e Informática
+                                     Unidad de Posgrado
+
+   Maestría en Ingeniería de Sistemas e Informática con mención en Ingeniería de
+                                     Software
+
+VIII.    SUMILLAS
+Asignaturas Obligatorias:
+MACHINE LEARNING BIG DATA
+Asignatura que corresponde al periodo Profundización, es de naturaleza Teórica-practica de modalidad
+presencial. Tiene el propósito de brindar los conocimientos para la predicción de patrones en grandes
+volúmenes de información estructurados y no estructurados, aglomerados en bases de datos o dispersos
+en diversos formatos en internet. Abarca los siguientes aspectos: Modelado de datos, Datawarehouse,
+Análisis multidimensional, Técnicas Data Mining, aprendizaje automático supervisado y no supervisado,
+Cloud Computing, Big data. Culmina con una aplicación práctica. Al finalizar el estudiante deberá
+presentar un informe aplicando los tópicos tratados.
+Las unidades son:
+    •        Patrones
+    •        Modelado de datos
+    •        Análisis multidimensional
+    •        Técnicas Data Mining
+
+ARQUITECTURA DE SOFTWARE
+Asignatura que corresponde al periodo Profundización, es de naturaleza Teórica-practica de modalidad
+presencial. Tiene como propósito diseñar, implementar y evaluar las arquitecturas de software. Conocer
+soluciones arquitectónicas relacionadas con diferentes tipos de problemas tecnológicos. Entender los
+conceptos relacionados con el desarrollo de soluciones de software en la nube, los casos de aplicación,
+las problemáticas habituales que enfrentan las organizaciones para iniciar con proyectos basados en la
+nube, y el diseño de soluciones de software híbridas entre modelos tradicionales y de nube. Al finalizar el
+estudiante deberá presentar un informe aplicando los tópicos tratados.
+Las unidades son:
+    •        Soluciones arquitectónicas relacionadas
+    •        Desarrollo de soluciones de software en la nube
+    •        Proyectos basados en la nube
+    •        Diseño de soluciones de software híbridas
+
+GESTIÓN DE PROYECTOS
+Asignatura que corresponde al periodo de Investigación, es de naturaleza Teórica-practica de modalidad
+Presencial. Tiene por propósito lograr que los alumnos adquieran los conocimientos y estándares para la
+formulación y la dirección de los proyectos. Con foco en la gestión y las mejores prácticas bajo un entorno
+predictivo y adaptativo. Generando valor a la organización y estrategias de integración del equipo del
+proyecto con los principales interesados. Ejecutando los procesos de Inicio, Planificación, Ejecución,
+Control y Cierre relacionados con las áreas de conocimiento. Al finalizar el estudiante deberá presentar
+un informe aplicando los tópicos tratados alineados a una línea de investigación.
+Las unidades son:
+    •        Formulación y la dirección de los proyectos
+    •        Metodologías robustas ágiles
+    •        Estrategias de integración del equipo del proyecto
+    •        Mejores Practicas
+
+
+
+
+                                                                                                         P
+                         Universidad Nacional Mayor de San Marcos
+                       Facultad de Ingeniería de Sistemas e Informática
+                                     Unidad de Posgrado
+
+    Maestría en Ingeniería de Sistemas e Informática con mención en Ingeniería de
+                                      Software
+
+
+METODOLOGÍA DE LA INVESTIGACIÓN
+Asignatura que corresponde al periodo Investigación, es de naturaleza Teórica-practica y de modalidad
+Semi presencial. Dentro de los fundamentos de la investigación científica se trata acerca de la metodología
+para la identificación de temas de investigación científica publicables. Aprenderá aplicar los fundamentos
+del paradigma cuantitativo y cualitativo de las ciencias, para llevar a cabo el estudio e intervención de una
+realidad específica. Así como la búsqueda de información y lineamientos éticos para las investigaciones
+científicas. Al finalizar deberá presenta un ensayo de investigación vinculado a una línea y grupo de
+investigación.
+Las unidades son:
+    •        Fundamentos de la investigación científica
+    •        Identificación del tema de investigación
+    •        Planteamiento del problema
+    •        Justificación del problema de investigación (teórica, practica, metodológica)
+
+INNOVACIÓN DISRUPTIVA Y TRANSFORMACIÓN DIGITAL
+Asignatura que corresponde al periodo de Profundización, es de naturaleza Teórica-practica y de
+modalidad presencial. Tiene como propósito comprender las tendencias de la revolución industrial, las
+principales tecnologías y la forma en que los productos y servicios afectarán a las empresas y a la sociedad.
+Descubrir cómo la transformación digital impacta los procesos de innovación en las organizaciones.
+Mitigar riesgos que pueden afectar la ejecución de proyectos de innovación soportados en tecnologías
+disruptivas. Examinar los diferentes estadios de innovación apalancados por las tecnologías disruptivas y
+la transformación digital. Desarrollar la transformación digital usando tecnologías como Blockchain,
+Inteligencia Artificial, Internet de las Cosas, Cloud Computing y Ciberseguridad. Al finalizar el estudiante
+deberá presentar deberá presentar un informe de un caso de estudio
+Las unidades son:
+    •        Revolución industrial, las principales tecnologías
+    •        Transformación digital
+    •        Tecnologías disruptivas
+    •        Manejo de Riesgos
+
+DESARROLLO DE SOFTWARE
+Asignatura que corresponde al periodo Profundización, es de naturaleza Teórica-practica de modalidad
+presencial. Tiene como propósito conocer los principios de seguridad tecnológica y de la información para
+disminuir las incertidumbres, amenazas, vulnerabilidades y riesgos que tienen las personas y
+organizaciones que hacen uso del software. Fundamentos y técnicas del desarrollo de software bajo el
+paradigma de Líneas de Productos de Software (LPS), incluyendo los procesos de Ingeniería de Dominio e
+Ingeniería de Aplicación. Se discuten los conceptos de Manejo de Variabilidad, el proceso de
+Administración de la Configuración para una Línea de Productos y demás estrategias para el desarrollo de
+Líneas de Producto de Software. Al finalizar el estudiante deberá presentar un informe aplicando los
+tópicos tratados alineados a una línea de investigación.
+Las unidades son:
+    •        Seguridad tecnológica y de la información
+    •        Fundamentos y técnicas del desarrollo de software
+    •        Procesos de Ingeniería de Dominio
+
+
+
+
+                                                                                                           P
+                         Universidad Nacional Mayor de San Marcos
+                       Facultad de Ingeniería de Sistemas e Informática
+                                     Unidad de Posgrado
+
+   Maestría en Ingeniería de Sistemas e Informática con mención en Ingeniería de
+                                     Software
+
+    •        Manejo de Variabilidad
+
+CIBERSEGURIDAD EN LA INGENIERÍA DE SOFTWARE
+Asignatura que corresponde al periodo Profundización, es de naturaleza Teórica-practica y de modalidad
+presencial. Tiene por propósito conocer las tecnologías disponibles en el mercado para diferentes
+aspectos de los datos: captura, almacenamiento, organización, análisis y visualización. Se abordarán
+aspectos desde la extracción y almacenamiento de datos hasta su análisis y visualización. Todo ello
+teniendo en cuenta los problemas de escalabilidad que plantean los grandes volúmenes de datos. Al
+finalizar el estudiante deberá presentar un informe aplicando los tópicos tratados alineados a una línea
+de investigación.
+Las unidades son:
+    •        Tecnologías disponibles en el mercado
+    •        extracción y almacenamiento de datos
+    •        Procesos de Ingeniería de Dominio
+    •        Manejo de Variabilidad
+
+DIRECCIÓN DE TESIS I
+Asignatura que corresponde al periodo Investigación, es de naturaleza Teórico Práctica y de modalidad
+Semi presencial. Tiene como propósito brindar los conocimientos metodológicos de investigación
+científica y elaborar el Plan del Proyecto de Investigación. Abarca los siguientes aspectos: Metodología
+para la formulación del tema de tesis, proyecto de tesis, comprende aspectos como: planteamiento del
+problema: situación problemática, formulación del problema, justificación de la Investigación, Objetivos
+de la investigación, marco teórico, diseño de la investigación, presupuesto, cronograma. Concluye con la
+redacción y presentación del Plan del Proyecto de Investigación. Al finalizar deberá presentar la redacción
+del proyecto de tesis.
+Las unidades son
+    •        Proceso de investigación
+    •        Situación problemática, formulación del problema general y específicos
+    •        Justificación de la investigación, objetivos de la investigación
+    •        Marco teórico, diseño de investigación, Presupuesto y cronograma
+
+GESTIÓN DE LA CALIDAD DEL SOFTWARE
+Asignatura que corresponde al periodo Investigación, es de naturaleza Teórica-practica y de modalidad
+presencial. Tiene como propósito conocer los principales elementos de la gestión de proyectos en el
+contexto del desarrollo de software, entre ellos, la definición de recursos, la calendarización del
+proyecto, el manejo del riesgo, el seguimiento y evaluación del proyecto, y las métricas en proyectos de
+ingeniería de software alineados a estándares internacionales de calidad. Al finalizar el estudiante
+deberá presentar un informe aplicando los tópicos tratados alineados a una línea de investigación.
+Las unidades son:
+    •        Desarrollo de software
+    •        Definición de recursos
+    •        Manejo del riesgo
+    •        Métricas en proyectos de ingeniería de software
+
+
+
+
+                                                                                                         P
+                         Universidad Nacional Mayor de San Marcos
+                       Facultad de Ingeniería de Sistemas e Informática
+                                     Unidad de Posgrado
+
+   Maestría en Ingeniería de Sistemas e Informática con mención en Ingeniería de
+                                     Software
+
+ENTORNOS METODOLÓGICOS DE DESARROLLO DE SOFTWARE
+Asignatura que corresponde al periodo Investigación, es de naturaleza Teórica-practica y de modalidad
+Semipresencial. Tiene por propósito conocer el enfoque ágil de gestión, saber cómo utilizar las prácticas
+ágiles de gestión de proyectos de software y de equipos de personas. La gestión ágil de proyectos es el
+primer paso natural antes de la gestión ágil de servicios, que también actualmente se propone llevar a
+cabo desde un punto de vista ágil. Manejo de Metodologías ágiles: Scrum, XP, Kanban y otras. Al finalizar
+el estudiante deberá presentar un informe aplicando los tópicos tratados alineados a una línea de
+investigación.
+Las unidades son:
+    •        Enfoque ágil de gestión
+    •        Prácticas ágiles de gestión de proyectos
+    •        Gestión ágil de proyectos
+    •        Metodologías ágiles
+
+DIRECCIÓN DE TESIS II
+Asignatura que corresponde al periodo Investigación, es de naturaleza Teórico-práctica y de modalidad
+Semipresencial. Comprende el seguimiento del desarrollo de la tesis y se complementa con la asesoría,
+revisión y redacción de la tesis, aplicando los conocimientos y herramientas metodológicas destinadas a
+la elaboración de investigación. Estudio del estado del Arte del tema de tesis. Revisión de 20 artículos
+científicos de revistas indexadas. Redacción del capítulo del estado del arte. Revisión sistemática de la
+literatura. Conceptualización de la contribución de la tesis, esta debe corresponder a una
+innovación/mejora respecto a teorías/métodos/modelos. Concluye con la redacción y presentación de la
+contribución/aporte de la tesis. Al finalizar el estudiante deberá presentará la redacción y presentación
+de la contribución/aporte de la tesis.
+Las unidades son:
+    •        Hipótesis general y específicos
+    •        Diseño de la investigación
+    •        Instrumentos de recolección de datos
+    •        Matriz de consistencia y matriz de operacionalización de variables
+
+HABILIDADES DIRECTIVAS EN GESTIÓN
+Asignatura que corresponde al periodo de Investigación, es de naturaleza Teórica-practica y de modalidad
+presencial. Tiene por propósito mostrar a los futuros directores cómo realizar la gestión de los diferentes
+recursos humanos, tecnológicos, financieros y la gestión de habilidades blandas, así como las normativas
+vigentes que afectan a la dirección y gestión. Los estudiantes podrán aplicar los conocimientos adquiridos
+y su capacidad de resolución de problemas en entornos nuevos o poco conocidos dentro de contextos
+más amplios (o multidisciplinares) relacionados con su área de estudio. Concluye con un informe
+aplicando los tópicos tratados a su tema de investigación. Al finalizar el estudiante deberá presentar un
+informe aplicando los tópicos tratados.
+Las unidades son:
+    •        Gestión de Recursos Humanos, Tecnológicos, Financieros
+    •        Normativas vigentes sobre dirección y gestión
+    •        Resolución de problemas
+    •        Análisis de contextos
+
+
+
+
+                                                                                                         P
+                         Universidad Nacional Mayor de San Marcos
+                       Facultad de Ingeniería de Sistemas e Informática
+                                     Unidad de Posgrado
+
+      Maestría en Ingeniería de Sistemas e Informática con mención en Ingeniería de
+                                        Software
+
+
+REDACCIÓN DE DOCUMENTOS CIENTÍFICOS
+Asignatura que corresponde al periodo Investigación, es de naturaleza Teórico-práctica y de modalidad
+Semipresencial. En este curso se presentan las técnicas y estrategias de investigación para la elaboración
+de documentos científicos de carácter original y primario y su publicación en conferencias, congresos y
+revistas científicas indexadas con factor de impacto. Culmina con la presentación de un artículo científico.
+Al finalizar el estudiante deberá presentar un artículo científico.
+Las unidades son:
+      •      Revisión de herramientas para mejorar la redacción, uso de plantillas en los principales
+             procesadores de texto, y gestores bibliográficos. (Zotero, Mendeley, etc.)
+      •      Redacción de los elementos preliminares del artículo de investigación
+      •      Redacción de los resultados, discusión del artículo, conclusiones, introducción y resumen del
+             artículo de investigación
+      •      Anexos y referencias bibliográficas.
+
+DIRECCIÓN DE TESIS III
+Asignatura que corresponde al periodo Investigación, es de naturaleza Teórico-práctica y de modalidad
+Semipresencial. Comprende el seguimiento del avance de la tesis y se complementa con la asesoría,
+revisión y redacción de la tesis. Ejecución de la metodología, análisis, interpretación y discusión de
+resultados, pruebas de hipótesis y presentación de resultados. Tiene como producto final la redacción al
+100% de la tesis. Al finalizar para aprobar la asignatura el estudiante deberá presentar como producto
+final la redacción al 100% de la tesis.
+Las unidades son:
+      •      Redacción de la tesis
+      •      Revisión ortográfica
+      •      Revisión de estilo
+      •      Preparación para la sustentación de la tesis
+
+IX.       PLANA DOCENTE DEL PROGRAMA
+AGUILAR LINARES CIRO                                        LEZAMA GONZALES, PEDRO MARTIN
+https://orcid.org/0000-0002-2143-9851                       https://orcid.org/0000-0001-9693-0138
+ALTAMIRANO YUPANQUI JOSUE RUBEN
+https://orcid.org/0000-0002-6532-7747
+BAUTISTA UBILLUS EFRAIN RICARDO                             LUZA MONTERO CESAR
+https://orcid.org/0000-0002-8188-4690                       https://orcid.org/0000-0003-3985-0232
+CALDAS NUÑEZ JESUS MANUEL                                   MARZAL MARTÍNEZ WALTER ROLANDO
+https://orcid.org/0000-0001-6051-284X                       https://orcid.org/0000-0001-5403-3834
+GAMARRA MORENO JUAN                                         MAURICIO SÁNCHEZ DAVID SANTOS
+https://orcid.org/0000-0002-3774-1457                       https://orcid.org/0000-0001-9262-626X
+GAMBOA CRUZADO JAVIER ARTURO                                MAYHUASCA GUERRA JORGE VICTOR
+https://orcid.org/0000-0002-0461-4152                       https://orcid.org/0000-0002-6465-4738
+HERRERA QUISPE JOSE ALFREDO                                 RIVERA ESCRIBA LUIS ANTONIO
+https://orcid.org/0000-0002-8207-9714                       https://orcid.org/0000-0002-5029-2561
+INGA LÓPEZ WILDER ALEX                                      RODRIGUEZ RODRIGUEZ CIRO
+https://orcid.org/0000-0002-9813-6234                       https://orcid.org/0000-0003-2112-1349
+LA SERNA PALOMINO NORA BERTHA                               ROSALES LÓPEZ PEDRO PABLO
+https://orcid.org/0000-0002-4292-344X                       https://orcid.org/0000-0002-8115-6431
+
+
+
+
+                                                                                                          P
+                       Universidad Nacional Mayor de San Marcos
+                     Facultad de Ingeniería de Sistemas e Informática
+                                   Unidad de Posgrado
+
+      Maestría en Ingeniería de Sistemas e Informática con mención en Ingeniería de
+                                        Software
+
+SANTOS LOPEZ FELIX MELCHOR                         UGARTE ROJAS WILLY GUSTAVO
+https://orcid.org/0000-0001-8598-2151              https://orcid.org/0000-0002-7510-618X
+SOBERO RODRÍGUEZ FANY YEXENIA                      UN JAN LIAU HING EMILIO ALBERTO
+https://orcid.org/0000-0002-0323-6110              https://orcid.org/0000-0002-7803-6236
+
+
+
+X.        PRESUPUESTO ESTUDIOS
+Costo por Crédito de 237.00 soles
+Total de Créditos del Programa. 72 Créditos académicos
+
+      •   LOS PAGOS SE REALIZAN EN VENTANILLA DEL BANCO PICHINCHA
+      •   NUMERO DE CUENTA UNMSM: 270016684
+      •   INDICAR EL CONCEPTO RESPECTIVO.
+
+                                              CONCEPTO DE                    FECHA LÍMITE DE
+      CICLO             CONCEPTO                            MONTO (S/.)
+                                                 PAGO                              PAGO
+                 MATRÍCULA UPG                  210-010          S/.258.00   EN LA MATRICULA
+
+ 1ER CICLO       MATRÍCULA EPG                  207-010           S/.52.00   EN LA MATRICULA
+    (18          PERFECCIONAMIENTO -
+                                                210-011        S/.2,133.00   EN LA MATRICULA
+ CREDITOS)     CUOTA 1
+                 PERFECCIONAMIENTO -                                       AL FINALIZAR 2.DO
+                                                210-011        S/.2,133.00
+               CUOTA 2                                                      MES DE CLASES
+                 MATRÍCULA UPG                  210-010          S/.348.00 EN LA MATRICULA
+
+ 2DO CICLO   MATRÍCULA EPG                      207-010           S/.52.00   EN LA MATRICULA
+    (18      PERFECCIONAMIENTO -
+                                                210-011        S/.2,133.00   EN LA MATRICULA
+ CREDITOS) CUOTA 1
+             PERFECCIONAMIENTO -                                           AL FINALIZAR 2.DO
+                                                210-011        S/.2,133.00
+           CUOTA 2                                                          MES DE CLASES
+             MATRÍCULA UPG                      210-010          S/.348.00 EN LA MATRICULA
+
+ 3ER CICLO       MATRÍCULA EPG                  207-010           S/.52.00   EN LA MATRICULA
+    (18          PERFECCIONAMIENTO -
+                                                210-011        S/.2,133.00   EN LA MATRICULA
+ CREDITOS)     CUOTA 1
+                 PERFECCIONAMIENTO -                                       AL FINALIZAR 2.DO
+                                                210-011        S/.2,133.00
+               CUOTA 2                                                      MES DE CLASES
+                 MATRÍCULA UPG                  210-010          S/.348.00 EN LA MATRICULA
+
+ 4TO CICLO       MATRÍCULA EPG                  207-010           S/.52.00   EN LA MATRICULA
+    (18          PERFECCIONAMIENTO -
+                                                210-011        S/.2,133.00   EN LA MATRICULA
+ CREDITOS)     CUOTA 1
+                 PERFECCIONAMIENTO -                                         AL FINALIZAR 2.DO
+                                                210-011        S/.2,133.00
+               CUOTA 2                                                        MES DE CLASES
+                        COSTO TOTAL                           S/.18,574.00
+
+
+XI.       RESPONSABLE DEL CURSO
+      •   Mg. Fany Yesenia Sobero Rodríguez
+
+
+
+
+                                                                                                 P
+
