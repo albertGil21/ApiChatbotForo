@@ -7,7 +7,7 @@ from typing import Dict
 from datetime import datetime
 
 
-api_key = "AIzaSyBcttk6LPhwvP-XoDsWoa_d4gLKC7n7GwI"
+api_key = os.environ.get("GEMINI_API_KEY")
 genai.configure(api_key=api_key)
 
 class GeminiChatManager:

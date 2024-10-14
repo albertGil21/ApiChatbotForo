@@ -1,6 +1,7 @@
 import hashlib
 import random
 import string
+import os
 import mysql.connector
 from mysql.connector import Error
 from datetime import datetime
@@ -16,7 +17,7 @@ class MysqlManager:
                 host='mysql-29b3c4f7-chatyforodb.h.aivencloud.com',
                 port=26304,
                 user='avnadmin',
-                password='AVNS_cmGIRvjscOE68heqsJy',
+                password=os.environ.get("MYSQL_KEY_PASSWORD"),
                 database='defaultdb'
             )
             if conexion.is_connected():
